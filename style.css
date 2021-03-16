@@ -1,0 +1,35 @@
+
+
+/* Classi da cancellare */
+.bordo{
+    border: 1px solid black;
+}
+
+nav .bordo{
+    height: 90px;
+}
+
+.hero .bordo{
+    height: 300px;
+}
+
+.immagini{
+    height: 100px;
+}
+
+footer .col-md-4 ,
+footer .col-sm-4{
+    height: 300px;
+}
+
+footer .col-md-12{
+    height: 90px;
+}
+
+
+.row{
+    width: 80%;
+    margin: auto;
+}
+    
+
