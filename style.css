@@ -6,6 +6,10 @@
     color: white;
 }
 
+.text-darker{
+    color: rgb(44, 62, 80);
+}
+
 .my-navbar .nav > li > a:focus, 
 .my-navbar .nav > li > a:hover{
     background-color: rgba(44, 62, 80, 0.5);
@@ -26,16 +30,22 @@
 .my-linea{
     display: inline-block;
     width: 30%;
-    vertical-align: middle
+    vertical-align: middle;
 }
-
+.my-hr{
+    border: 2px solid ;
+}
 .stellina{
     margin: 0 15px;
 }
 
 /* padding per tutte le sezioni */
 .my-pd-pagina{
-    padding: 30px 0;
+    padding: 40px 0;
+}
+
+.portfolio img{
+    margin: 15px 0;
 }
 
 
