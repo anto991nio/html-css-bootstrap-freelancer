@@ -38,15 +38,31 @@
 .stellina{
     margin: 0 15px;
 }
+.portfolio img{
+    margin: 15px 0;
+}
+
+.bg-green .my-btn-green{
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 25px;
+    
+}
+
+.my-pd-pagina .form-control{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    box-shadow: none;
+    font-weight: bold;
+}
 
 /* padding per tutte le sezioni */
 .my-pd-pagina{
     padding: 40px 0;
 }
 
-.portfolio img{
-    margin: 15px 0;
-}
 
 
 
