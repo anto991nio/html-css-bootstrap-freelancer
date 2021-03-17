@@ -1,4 +1,4 @@
-.my-navbar{
+.bg-darker{
     background-color: rgb(44, 62, 80);
 }
 
@@ -15,31 +15,28 @@
     background-color: white;
 }
 
-
-/* Classi da cancellare */
-.bordo{
-    border: 1px solid black;
-    text-align: center;
-}
-nav .bordo{
-    height: 90px;
-}
-.hero .bordo{
-    height: 300px;
-    
-}
-.immagini{
-    height: 100px;
-}
-footer .col-md-4 ,
-footer .col-sm-4 ,
-footer .col-xs-12{
-    height: 300px;
-}
-footer .col-md-12{
-    height: 90px;
+.bg-green{
+    background-color: rgb(26, 188, 156);
 }
 
+.my-img-container{
+    max-width: 200px;
+}
+
+.my-linea{
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle
+}
+
+.stellina{
+    margin: 0 15px;
+}
+
+/* padding per tutte le sezioni */
+.my-pd-pagina{
+    padding: 30px 0;
+}
 
 
 
