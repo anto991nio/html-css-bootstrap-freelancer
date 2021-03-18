@@ -53,6 +53,10 @@
     margin: 15px 0;
 }
 
+.margine-sugiu{
+    margin: 15px 0;
+}
+
 .bg-green .my-btn-green{
     border: 1px solid white;
     border-radius: 5px;
@@ -84,6 +88,8 @@ footer a{
 footer a:hover{
     color: white;
 }
+
+
 /* padding per tutte le sezioni */
 .my-pd-pagina{
     padding: 40px 0;
